@@ -20,9 +20,9 @@ no_index:
     - share
     - t
 requires:
-  Cog: 0.02
+  Cog::Cog: 0.05
   Mouse: 0
   perl: 5.8.3
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
